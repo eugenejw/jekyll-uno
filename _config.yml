@@ -1,8 +1,9 @@
 # Site settings
 title: Weihan Jiang
 description: 'Software Engineering in SF Bay Area'
-url: 'http://theweihanjiang.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+url: 'http://theweihanjiang.com/'
+#baseurl: '/jekyll-uno/'
+baseurl: ''
 google_analytics: 'UA-74090658-1'
 disqus_shortname: 'weihan'
 
