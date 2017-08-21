@@ -3,8 +3,8 @@ title: Weihan Jiang
 description: 'Software Engineering in SF Bay Area'
 url: 'http://theweihanjiang.com/jekyll-uno'
 baseurl: '/jekyll-uno/'
-google_analytics: 'UA-74090658-1'
-disqus_shortname: 'weihan'
+# google_analytics: 'UA-74090658-1'
+# disqus_shortname: 'weihan'
 
 author:
   name: 'Weihan Jiang'
