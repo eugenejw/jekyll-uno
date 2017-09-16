@@ -8,6 +8,17 @@ pre.highlight,
   padding: 10px;
 }
 
+.logo-b {
+  fill: white;
+}
+.logo-u {
+  fill: #939597;
+}
+/* #7D0CE8; }*/
+.logo-g {
+  fill: yellow;
+}
+/*  #FF0000; } */
 pre.highlight code,
 .highlight pre code {
   white-space: pre-wrap;
